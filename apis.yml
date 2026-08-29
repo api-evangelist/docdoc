@@ -8,6 +8,17 @@ description: >-
   Asia connecting patients with doctors, clinics, and hospitals through a data-driven medical advisory
   platform. DocDoc is profiled in the API Evangelist network as a healthcare technology company; no
   public developer/API surface was discoverable during enrichment.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
